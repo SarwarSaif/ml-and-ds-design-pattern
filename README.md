@@ -13,6 +13,9 @@ Here, I'll try to add the best practices for designing different machine learnin
 <a href="https://towardsdatascience.com/4-design-principles-for-data-processing-964d6a45cb7c">4 Design Principles for Data Processing</a><br/>
 <a href="https://www.thoughtco.com/what-is-the-interquartile-range-3126245">Understanding the Interquartile Range in Statistics</a><br/>
 <a href="https://towardsdatascience.com/manage-your-data-science-project-structure-in-early-stage-95f91d4d0600">Manage your Data Science project structure in early stage</a><br/>
+<a href="https://towardsdatascience.com/from-novice-to-expert-how-to-write-a-configuration-file-in-python-273e171a8eb3">From Novice to Expert: How to Write a Configuration file in Python</a><br/>
+<a href=""></a><br/>
+<a href=""></a><br/>
 <a href=""></a><br/>
 <a href=""></a><br/>
 <a href=""></a><br/>
